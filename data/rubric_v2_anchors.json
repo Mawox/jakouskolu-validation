@@ -1,0 +1,371 @@
+[
+ {
+  "dimension": "teaching_quality",
+  "score": 1,
+  "report_id": "6185_20070417",
+  "era": "≤2010",
+  "school_type": "MS",
+  "text": "Pedagogický proces postrádal tvořivost a hlubší prožitek. Převažoval důraz na pamětní učení a reprodukci. … Málo příležitostí k samostatnému řečovému či pohybovému projevu vedlo k pasivitě dětí a statické zátěži (na nutnost změny pedagogického stylu upozorňují již výše uvedené Inspekční zprávy z roku 1998 a 2001).",
+  "why": "Pasivní, pamětní výuka s popsaným dopadem na děti, na kterou inspekce upozorňuje opakovaně bez nápravy."
+ },
+ {
+  "dimension": "teaching_quality",
+  "score": 1,
+  "report_id": "13541_20241204",
+  "era": "2020+",
+  "school_type": "ZS",
+  "text": "Chybělo diferencované zadávání úloh pro různě úspěšné jedince. … V několika případech vyučovací hodina končila v situaci, kdy si naprostá většina žáků neosvojila aktuální učivo a vyučující odsunuli jeho zvládnutí do příští hodiny nebo do domácí přípravy žáků.",
+  "why": "Bez diferenciace; v několika hodinách si většina žáků učivo neosvojila. Dopad na děti je popsaný přímo."
+ },
+ {
+  "dimension": "teaching_quality",
+  "score": 1,
+  "report_id": "5150_20030505",
+  "era": "≤2010",
+  "school_type": "ZS",
+  "text": "Nedostatek aktivizujících učebních činností a jednotvárnost zvolených aktivit vedly k menšímu zapojení některých žáků do výuky. … Základem hodin byla především frontální práce, při výuce byla využita i skupinová práce. Ve většině hodin byla role vyučujícího dominantní, což někdy vedlo k pasivitě žáků.",
+  "why": "Doložené nedostatky převažují, i když jsou omezeného rozsahu („některých žáků“, „někdy“): 1."
+ },
+ {
+  "dimension": "teaching_quality",
+  "score": 2,
+  "report_id": "16116_20221107",
+  "era": "2020+",
+  "school_type": "ZS",
+  "text": "Promyšleně se střídaly odlišné formy výuky a pestré metody, které udržovaly pozornost žáků a zvyšovaly jejich aktivní zájem. … V navštívených hodinách však zpravidla chyběla diferenciace úkolů, žáci plnili úlohy stejné obtížnosti bez ohledu na rozdílné pracovní tempo.",
+  "why": "Pestré metody a zapojení žáků, ale zpravidla chyběla diferenciace: pozitiva s podstatnou výhradou, proto 2, a ne 3."
+ },
+ {
+  "dimension": "teaching_quality",
+  "score": 3,
+  "report_id": "17647_20150527",
+  "era": "2011–15",
+  "school_type": "ZS",
+  "text": "Vyučující využívali mezipředmětových vazeb, účelně dokázali provázat probírané téma s reálnými životními situacemi, vhodnou a pro žáky atraktivní formou je motivovali k práci. Komunikace v hodině anglického jazyka byla velmi dobrá, žáci živě a se zájmem reagovali a zajímali se o výuku.",
+  "why": "Konkrétní praxe, která dětem prospívá: propojení s životem, motivace a živé zapojení žáků."
+ },
+ {
+  "dimension": "teaching_quality",
+  "score": 3,
+  "report_id": "2678_20211129",
+  "era": "2020+",
+  "school_type": "SS",
+  "text": "Zařazení vhodných organizačních forem založených na kooperativním učení a využití obrazových i textových materiálů vedlo k aktivnímu zapojení a samostatné argumentaci žáků. … V případě potřeby zpomalili tempo výuky a zopakovali látku či poskytovali individuální podporu při plnění zadaného úkolu.",
+  "why": "Pozorovaná praxe, ze které žáci mají prospěch: kooperativní učení, aktivní zapojení, individuální podpora."
+ },
+ {
+  "dimension": "teaching_quality",
+  "score": 4,
+  "report_id": "11126_20010919",
+  "era": "≤2010",
+  "school_type": "ZS",
+  "text": "Zvolená struktura hodin respektovala věkové složení třídy i schopnosti žáků. Ti byli aktivizováni k samostatné tvůrčí činnosti, která je zjevně bavila … Při opakování učiva se učitelky zaměřily na pochopení vzájemných souvislostí žáky a na spojování teoretických poznatků s praktickými zkušenostmi.",
+  "why": "Několik různých zjištění s popsaným přínosem: výuka přizpůsobená věku a schopnostem, tvůrčí činnost, která žáky baví, propojení teorie s praxí."
+ },
+ {
+  "dimension": "teaching_quality",
+  "score": 4,
+  "report_id": "9067_20180612",
+  "era": "2016–19",
+  "school_type": "ZS",
+  "text": "Učivo bylo vždy diferencováno podle předpokladů a schopností jednotlivců a podle zastoupených ročníků. … Učitelky žáky průběžně a smysluplně aktivizovaly a motivovaly, zadávaly jim interaktivní cvičení a problémové úlohy a soustavně rozvíjely jejich schopnost chápat učivo v souvislosti s reálnými situacemi v běžném životě.",
+  "why": "Soustavně uplatňovaná („vždy“, „průběžně“, „soustavně“) diferenciace, aktivizace a propojení s běžným životem: více různých zjištění."
+ },
+ {
+  "dimension": "teaching_quality",
+  "score": null,
+  "report_id": "2965_20130422",
+  "era": "2011–15",
+  "school_type": "ZS",
+  "text": "V základní škole je vzdělávání poskytováno podle Školního vzdělávacího programu pro základní vzdělávání (ŠVP ZV), který je v souladu s Rámcovým vzdělávacím programem pro základní vzdělávání (RVP ZV).",
+  "why": "Pokud zpráva k oblasti uvádí jen tohle, skóre je null: soulad dokumentů neříká nic o tom, jak se děti učí."
+ },
+ {
+  "dimension": "leadership_management",
+  "score": 1,
+  "report_id": "5596_20101202",
+  "era": "≤2010",
+  "school_type": "MS",
+  "text": "Nevýrazné vedení a kontrola činnosti mateřské školy je příčinou zjištěných, níže uvedených nedostatků: … časté využívání pracovních a grafických listů na úkor prožitkového a činnostního učení … nevyváženost spontánních a řízených činností, nedostupnost pitného režimu",
+  "why": "Zpráva přímo spojuje slabé vedení s nedostatky, které děti zažívají."
+ },
+ {
+  "dimension": "leadership_management",
+  "score": 1,
+  "report_id": "4973_20180115",
+  "era": "2016–19",
+  "school_type": "ZS",
+  "text": "Chybějící systematické kontrolní mechanismy se negativně projevují v např. v rozdílné úrovni práce se žáky se SVP, v nenaplňování školního vzdělávacího programu a rozdílné kvalitě výuky. Není zajištěna soustavná analýza kvality práce pedagogů a účelnosti využívaných metod a forem ve vzdělávání.",
+  "why": "Chybí systematická kontrola kvality výuky; zpráva popisuje dopad na práci se žáky se SVP a na nevyrovnanou úroveň výuky."
+ },
+ {
+  "dimension": "leadership_management",
+  "score": 1,
+  "report_id": "9875_20230419",
+  "era": "2020+",
+  "school_type": "ZS",
+  "text": "Kontrolní systém školy není zcela funkční, kontrolní činnosti nejsou realizovány v dostatečném rozsahu. … Zpětná vazba sdělovaná učitelům při pohospitačním rozhovoru a uvedená v písemných záznamech neposkytuje často pedagogům konkrétní informace pro jejich další cílený profesní rozvoj",
+  "why": "Kontrola výuky je nedostatečná a zpětná vazba učitelům často nedává nic konkrétního: slabiny převažují, i když zpráva nepopisuje dopad na děti."
+ },
+ {
+  "dimension": "leadership_management",
+  "score": 2,
+  "report_id": "14033_20151207",
+  "era": "2011–15",
+  "school_type": "ZS",
+  "text": "Ředitel získával informace o průběhu vzdělávání vlastní kontrolní a hospitační činností pouze v menší míře a formou nahodilého výběru. Závěry projednával a vyhodnocoval s jednotlivými učiteli.",
+  "why": "Hospitace jen v malém rozsahu a s nahodilým výběrem, závěry ale ředitel s učiteli rozebírá: sledování výuky s podstatnou výhradou, proto 2, a ne 3."
+ },
+ {
+  "dimension": "leadership_management",
+  "score": 2,
+  "report_id": "17583_20211004",
+  "era": "2020+",
+  "school_type": "MS",
+  "text": "Kontrolní hospitační činnost je ředitelkou realizována na základě nastaveného evaluačního plánu, záznamy z hospitací dokladují kvalitní vzdělávací činnost ve třídách, avšak závěry a doporučení pro další rozvoj pedagogické práce učitelek jsou málo konkrétní",
+  "why": "Ředitelka hospituje podle plánu, ale závěry a doporučení pro další rozvoj jsou málo konkrétní: sledování výuky s podstatnou výhradou, proto 2, a ne 3."
+ },
+ {
+  "dimension": "leadership_management",
+  "score": 3,
+  "report_id": "17434_963873921f9b4e0ea9a38fdf64308b4a",
+  "era": "2020+",
+  "school_type": "ZS",
+  "text": "Kontrolní a hospitační činnost ředitelky školy se záměrem zkvalitňování poskytovaného vzdělávání je rozvržena do celého školního roku, následně je vyhodnocována, pedagogům je poskytovaná zpětná vazba. V subjektu jsou funkčně nastaveny vzájemné hospitace pedagogů a podpora začínajícím pedagogům.",
+  "why": "Vedení po celý rok hospituje a učitelé dostávají zpětnou vazbu: stačí na 3, i když zpráva neříká, co se tím ve třídách změnilo. Bez popsaného přínosu pro děti to není 4."
+ },
+ {
+  "dimension": "leadership_management",
+  "score": 3,
+  "report_id": "7598_20230110",
+  "era": "2020+",
+  "school_type": "ZS",
+  "text": "Ke zjištěním a k identifikovaným rizikům, např. v oblasti diferenciace výuky dle individuálních vzdělávacích potřeb žáků, vedení školy přijímá opatření. Jejich naplňování pravidelně analyzuje, vyhodnocuje a stanovuje postupy směřující ke zkvalitňování pedagogického vedení i vzdělávací činnosti školy. … Efektivní systém kontrolní a hospitační činnosti s účelnou zpětnou vazbou a sebehodnocení pedagogických pracovníků přispívají ke zlepšování kvality vzdělávání.",
+  "why": "Vedení hospituje, dává zpětnou vazbu a ke zjištěním přijímá opatření: to stačí na 3. O hospitacích a zpětné vazbě zpráva jen obecně říká, že přispívají ke zlepšování kvality vzdělávání, a neuvádí, co se změnilo u dětí nebo v hodinách, proto ne 4."
+ },
+ {
+  "dimension": "leadership_management",
+  "score": 4,
+  "report_id": "2068_20120206",
+  "era": "2011–15",
+  "school_type": "ZS",
+  "text": "Pravidelné analyzování hodnocení žáků a přijímaná opatření umožnily, že ve sledovaném období škola nemá neprospívající žáky. … Učitelům nekvalifikovaným nebo bez větších pedagogických zkušeností se věnuje zvýšená péče uvádějícími pedagogy.",
+  "why": "Vedení pravidelně pracuje s výsledky žáků a jeho opatření mají popsaný účinek: škola nemá neprospívající žáky. K tomu podporuje začínající učitele."
+ },
+ {
+  "dimension": "leadership_management",
+  "score": 4,
+  "report_id": "7985_929daf5f89054ffa9e5a5f4a3ebc7032",
+  "era": "2020+",
+  "school_type": "MS",
+  "text": "Kontrolní mechanismy jsou ze strany ředitele školy uplatňovány formou každodenního kontaktu se zaměstnanci a hospitacemi, které mu poskytují informace o průběhu vzdělávání. Zjištění jsou účelně využívána k posilování metodické podpory a profesního růstu pedagogů, včetně systematického vedení začínající učitelky při rozvoji jejích pedagogických dovedností. … Ředitel školy přijal účinná opatření ke zjištěním z minulé inspekční činnosti v nastavení kontrolní a evaluační činnosti, zlepšila se práce s pedagogickým diagnostikováním, zvýšila se účinnost vzdělávacích strategií",
+  "why": "Ředitel zná výuku z první ruky a zpráva jmenuje, co se po jeho opatřeních zlepšilo: práce s pedagogickým diagnostikováním."
+ },
+ {
+  "dimension": "leadership_management",
+  "score": 4,
+  "report_id": "7729_20151103",
+  "era": "2011–15",
+  "school_type": "ZS",
+  "text": "Pedagogům s praxí do tří let nebo nově příchozím je poskytována maximální podpora např. přidělení uvádějícího učitele, zajištění náslechů, vzájemné hospitace, průběžné konzultace s vedením školy i ostatními pedagogy. … Nadprůměrných výsledků dosahují žáci v českém a anglickém jazyku, horší výsledky se dlouhodobě ukazují v matematice. Vedení školy na tuto skutečnost zareagovalo individualizovanou výukou matematiky ve vyšších třídách a přechodem k metodě prof. Hejného zatím na 1. stupni.",
+  "why": "Vedení sleduje výsledky dětí, ví, že se jim nedaří v matematice, a zpráva říká, co se kvůli tomu v hodinách změnilo: individualizovaná výuka matematiky a metoda prof. Hejného. Jedno takové zjištění na 4 stačí."
+ },
+ {
+  "dimension": "leadership_management",
+  "score": 4,
+  "report_id": "2697_20241113",
+  "era": "2020+",
+  "school_type": "ZS",
+  "text": "Pro začínající pracovníky školy i SPC je vypracován a realizován podrobný zaškolovací program, jehož efektivita byla patrná ve sledované výuce i při poskytování poradenských služeb. … Evaluace vzdělávání probíhá četnými hospitacemi vedení, hodiny jsou s pedagogy rozebírány a případně jsou jim stanoveny oblasti, v nichž je potřeba zlepšení.",
+  "why": "Zaškolování nových pracovníků má účinek, který inspekce viděla ve výuce i v poradenských službách. Vedení k tomu zná výuku z častých hospitací a rozebírá ji s učiteli."
+ },
+ {
+  "dimension": "leadership_management",
+  "score": null,
+  "report_id": "12433_20140611",
+  "era": "2011–15",
+  "school_type": "ZS",
+  "text": "Ředitelka školy splňuje požadavky stanovené zákonem pro výkon práce, kterou vykonává na základě jmenování.",
+  "why": "Pokud zpráva k oblasti uvádí jen tohle, skóre je null: formální předpoklady neříkají nic o tom, jak vedení ovlivňuje život dětí."
+ },
+ {
+  "dimension": "school_climate",
+  "score": 1,
+  "report_id": "4989_20191119",
+  "era": "2016–19",
+  "school_type": "ZS",
+  "text": "se škole nedaří snížit míru úrazovosti při hodinách tělesné výchovy a sportovních činnostech, která je v porovnání s celostátním indexem úrazovosti v základních školách vyšší. Škola nehledá další možná opatření, která by vedla ke snížení míry úrazovosti.",
+  "why": "Bezpečí s doloženým dopadem: žáci se zraňují častěji než jinde a škola další opatření nehledá. Samotné riziko bez popsaného dopadu se nepočítá."
+ },
+ {
+  "dimension": "school_climate",
+  "score": 1,
+  "report_id": "17455_20180213",
+  "era": "2016–19",
+  "school_type": "ZS",
+  "text": "Dokladem neúčinnosti preventivní práce je vysoký výskyt rizikového chování žáků ve škole a vysoká neomluvená absence, což se odráží v počtu udělených kázeňských opatření a snížených stupňů hodnocení chování žáků. … S jeho výsledky jsou seznamováni třídní učitelé, jejich následnou prací se třídou se však nedaří rizikové jevy výrazně eliminovat.",
+  "why": "Časté rizikové chování, které se škole nedaří omezit: přetrvávající nedostatek s dopadem na děti."
+ },
+ {
+  "dimension": "school_climate",
+  "score": 2,
+  "report_id": "6185_20070417",
+  "era": "≤2010",
+  "school_type": "MS",
+  "text": "učitelka vytvářela svým pozitivním přístupem k dětem příznivou atmosféru, ale pro jejich přirozenou socializaci nestanovila účinná pravidla pro vzájemné vztahy ve skupině, podporu spolupráce a respekt k individualitě dítěte.",
+  "why": "Smíšený nález: vlídný přístup učitelky, ale chybějí pravidla pro vztahy mezi dětmi."
+ },
+ {
+  "dimension": "school_climate",
+  "score": 2,
+  "report_id": "12433_20140611",
+  "era": "2011–15",
+  "school_type": "ZS",
+  "text": "Ve škole donedávna pracoval školní parlament složený z žáků školy, který ředitelka školy ke škodě žáků i pedagogů pro neefektivní spolupráci s vedením školy zrušila. … Ve většině tříd vyučující navodili klidnou atmosféru, žáci s vyučujícími aktivně spolupracovali.",
+  "why": "Smíšený nález: klidná atmosféra a spolupráce ve třídách, ale děti přišly o parlament, tedy o jednu z možností se vyjádřit."
+ },
+ {
+  "dimension": "school_climate",
+  "score": 3,
+  "report_id": "11126_20010919",
+  "era": "≤2010",
+  "school_type": "ZS",
+  "text": "Těm byl poskytován dostatečný prostor pro vyjádření vlastního názoru a žáci jej plnou měrou využívali. I když byl patrný diferencovaný přístup k žákům, kteří jej vyžadovali, dostával se všem spravedlivý díl pozornosti a úsměvů učitelek bez ohledu na sympatie, píli nebo talent.",
+  "why": "Konkrétně pozorovaný respektující přístup dospělých a prostor pro hlas dětí."
+ },
+ {
+  "dimension": "school_climate",
+  "score": 3,
+  "report_id": "14819_20180326",
+  "era": "2016–19",
+  "school_type": "ZS",
+  "text": "Pedagogové trvale podporují správné vzory chování, daří se jim vytvářet a upevňovat žádoucí vztahy a příznivé klima v třídních kolektivech. … V obou třídách trvale panovala příjemná atmosféra a demokratické prostředí. Vztahy mezi žáky a vyučujícími byly přátelské, založené na vzájemném respektu a úctě.",
+  "why": "Popsané vztahy mezi žáky a učiteli (respekt, úcta) pozorované ve třídách; jedno zjištění bez další konkrétní praxe, proto 3, a ne 4."
+ },
+ {
+  "dimension": "school_climate",
+  "score": 3,
+  "report_id": "2405_20160311",
+  "era": "2016–19",
+  "school_type": "ZS",
+  "text": "Pozitivní je podíl žáků na zpracování i dodržování pravidel chování. … Celkově je preventivní strategie účinná, rizikové chování žáků se vyskytuje minimálně, škola vyřešila případy šíření videozáznamu sebepoškozování žáka, náznak šikany s drobným fyzickým ublížením a slovní agresi mezi žáky již v počátečním stadiu.",
+  "why": "Škola šikanu a agresi řeší včas a žáci spoluvytvářejí pravidla: konkrétní praxe, která dětem prospívá."
+ },
+ {
+  "dimension": "school_climate",
+  "score": 4,
+  "report_id": "12871_20170428",
+  "era": "2016–19",
+  "school_type": "ZS",
+  "text": "Během hodnocení výsledků práce vyučující vytvořili atmosféru důvěry a respektu, kde nebylo místo pro posměch. … Důslednost pedagogů vede k eliminaci výraznějších projevů rizikového chování žáků. Činností žákovské rady škola podporuje rozvoj demokratických hodnot a občanských kompetencí zapojováním žáků do rozhodování o věcech, které se jich týkají, a poskytuje jim příležitost vyjádřit svůj názor.",
+  "why": "Tři různá zjištění: respekt bez posměchu při hodnocení, málo rizikového chování díky důslednosti učitelů, žáci spolurozhodují."
+ },
+ {
+  "dimension": "school_climate",
+  "score": 4,
+  "report_id": "12670_20240307",
+  "era": "2020+",
+  "school_type": "ZS",
+  "text": "Pozitivním vzorem žákům byli všichni dospělí, jejichž trpělivý přístup založený na respektu individuality každého žáka provázel celý průběh vzdělávání. Svým chováním, reakcemi na vzniklé situace i zařazováním aktivit rozvíjejících sociální gramotnost podporovali prosociální vztahy mezi žáky. … Žáci byli aktivní, s vyučujícími otevřeně komunikovali, dostávali dostatečný prostor k vyjádření vlastního názoru nebo myšlenky.",
+  "why": "Respekt dospělých po celou dobu výuky, cílená podpora vztahů mezi žáky a prostor pro jejich názor: soustavná praxe ve více ohledech."
+ },
+ {
+  "dimension": "school_climate",
+  "score": null,
+  "report_id": "4971_20130410",
+  "era": "2011–15",
+  "school_type": "ZS",
+  "text": "Škola má zpracovaný minimální preventivní program, včetně systému postupů pro pedagogické pracovníky v případě ohrožení šikanou, návykovými látkami, nebezpečím úrazu atd.",
+  "why": "Pokud zpráva k oblasti uvádí jen tohle, skóre je null: existence dokumentu neříká nic o tom, jak se děti ve škole cítí."
+ },
+ {
+  "dimension": "student_support",
+  "score": 1,
+  "report_id": "1601_20080410",
+  "era": "≤2010",
+  "school_type": "SS",
+  "text": "V dokumentaci výchovných poradců je ve studijních oborech evidováno 16 žáků, kteří byli vyšetřeni v pedagogicko-psychologických poradnách a mají doporučení pro individuální přístup ve vyučování. Ve sledovaných hodinách nebyla individuální práce s evidovanými žáky zaznamenána.",
+  "why": "Škola potřeby žáků zná, ale individuální práce s nimi nebyla v pozorovaných hodinách zaznamenána."
+ },
+ {
+  "dimension": "student_support",
+  "score": 1,
+  "report_id": "17186_20150316",
+  "era": "2011–15",
+  "school_type": "ZS",
+  "text": "Častou nepřipravenost na výuku u těchto žáků řeší škola poznámkami do žákovských knížek a udělovanými sankčními výchovnými opatřeními, které žáky nemotivují k dalšímu učení. … Individuální doučování, jak pro tyto žáky, tak i pro žáky ohrožené školní neúspěšností, je stanoveno pouze sankčně za nesplnění požadovaných úkolů, kdy žáci zůstávají po výuce ve škole.",
+  "why": "Děti, které potřebují pomoc, dostávají sankce místo podpory; zpráva popisuje dopad na jejich motivaci."
+ },
+ {
+  "dimension": "student_support",
+  "score": 1,
+  "report_id": "2633_20250414",
+  "era": "2020+",
+  "school_type": "ZS",
+  "text": "Žákům jsou sice nabízeny konzultace, ale podpora není systematická ani následně vyhodnocovaná její účelnost.",
+  "why": "Podpora není systematická a její účelnost se nevyhodnocuje: slabiny převažují."
+ },
+ {
+  "dimension": "student_support",
+  "score": 2,
+  "report_id": "8024_20160125",
+  "era": "2016–19",
+  "school_type": "ZS",
+  "text": "Žákům se SVP škola poskytuje podpůrná a vyrovnávací opatření. Individuálně integrovaní žáci se vzdělávají podle IVP, které škola společně se školským poradenským zařízením pravidelně vyhodnocuje. Probíhají nápravy poruch učení. V šesti třídách, kde jsou individuálně integrováni žáci se zdravotním postižením, pracují asistenti pedagoga.",
+  "why": "Popsaná běžná opatření; zpráva neříká, co z nich děti mají: nejvýše 2."
+ },
+ {
+  "dimension": "student_support",
+  "score": 2,
+  "report_id": "5931_3c81b2235e914eafb65be0b21554d8d8",
+  "era": "2020+",
+  "school_type": "SS",
+  "text": "Pracovníci školního poradenského pracoviště se pravidelně scházejí k řešení aktuálních problémů, poskytují poradenskou podporu žákům i jejich zákonným zástupcům … Žákům s odlišným mateřským jazykem je v případě potřeby poskytována adekvátní podpora a jsou přirozeně začleňováni do třídních kolektivů.",
+  "why": "Běžné poradenství popsané obecně („adekvátní podpora“), bez konkrétní pomoci a jejího přínosu."
+ },
+ {
+  "dimension": "student_support",
+  "score": 3,
+  "report_id": "11506_20150303",
+  "era": "2011–15",
+  "school_type": "ZS",
+  "text": "Školní poradenství zajišťovala v ZŠ velmi zodpovědně zástupkyně ředitelky školy, která systematicky koordinovala činnost školy v oblasti péče o žáky se SVP a kariérního poradenství. Pedagožky se věnovaly těmto žákům v souladu s jejich potřebami, dobře uplatňovaly individuální přístup k nim a respektovaly jejich možnosti a osobní pracovní tempo.",
+  "why": "Učitelky ve výuce reálně přizpůsobují práci žákům se speciálními potřebami."
+ },
+ {
+  "dimension": "student_support",
+  "score": 3,
+  "report_id": "10242_20180917",
+  "era": "2016–19",
+  "school_type": "MS",
+  "text": "Učitelky vyhledávají děti s poruchami řečových a komunikačních dovedností a v případě potřeby jsou jejich rodičům doporučovány služby dalších odborníků. … Asistent pedagoga úzce spolupracuje s učitelkou i rodiči, vyměňují si informace o všech stránkách rozvoje dítěte.",
+  "why": "Škola potřeby aktivně vyhledává a spolupracuje s rodiči kvůli konkrétnímu dítěti."
+ },
+ {
+  "dimension": "student_support",
+  "score": 4,
+  "report_id": "14298_20170509",
+  "era": "2016–19",
+  "school_type": "ZS",
+  "text": "asistenti pomáhali zejména s orientací v zadaném úkolu, s určováním dalšího postupu, udržením pozornosti, komunikací. Žákům se SVP byly zadávány úkoly modifikované, ti pracovali vlastním tempem, s přestávkami v práci a průběžnou podporou a pozitivní zpětnou vazbou. Pokud to žák se SVP vyžadoval, věnovali mu více času, postupovali podle doporučených podrobně připravených speciálně pedagogických postupů a metodik.",
+  "why": "Konkrétní pomoc pozorovaná ve výuce v několika podobách: práce asistentů, upravené úkoly a vlastní tempo, víc času podle potřeby."
+ },
+ {
+  "dimension": "student_support",
+  "score": 4,
+  "report_id": "2678_20211129",
+  "era": "2020+",
+  "school_type": "SS",
+  "text": "Dlouhodobé, pravidelné a plánovité osvojování strategie učení po skupinách těchto žáků, zvládnutí relaxačních technik, správná práce s textem apod. pokračuje i nadále v tzv. Dysklubu. Výsledky této práce se projevují ve srovnatelném průměrném prospěchu těchto žáků s ostatními žáky. … Pomoc při začleňování do nového prostředí a při vytváření neformálních vztahů v novém kolektivu škola poskytuje např. pravidelně organizovanými adaptačními kurzy",
+  "why": "Dlouhodobá práce se žáky s poruchami učení s popsaným výsledkem (prospěch srovnatelný s ostatními) a pomoc s adaptací v novém kolektivu."
+ },
+ {
+  "dimension": "student_support",
+  "score": null,
+  "report_id": "14875_20030422",
+  "era": "≤2010",
+  "school_type": "ZS",
+  "text": "Na škole působí výchovná poradkyně a školní metodik prevence sociálně patologických jevů.",
+  "why": "Pokud zpráva k oblasti uvádí jen tohle, skóre je null: výčet funkcí neříká nic o tom, komu a jak škola pomáhá."
+ }
+]

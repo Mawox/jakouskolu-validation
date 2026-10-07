@@ -1,0 +1,15 @@
+[project]
+name = "jakouskolu-validation"
+version = "0.1.0"
+description = "Registered validation of LLM scores of Czech school inspection reports against the Mapa školy survey"
+requires-python = ">=3.13"
+dependencies = ["httpx", "numpy", "pandas", "pyarrow"]
+
+[dependency-groups]
+dev = ["pytest"]
+
+[tool.uv]
+package = false
+
+[tool.pytest.ini_options]
+testpaths = ["."]

@@ -1,0 +1,10 @@
+.env
+cache/
+__pycache__/
+.venv/
+.pytest_cache/
+data/*
+!data/rubric_v2_anchors.json
+!data/reliability_sample.csv
+!data/development_report_ids.csv
+registered_scores.sha256
